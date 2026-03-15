@@ -32,7 +32,7 @@ public class RallyChampionship
         race1.recordResult(neuville, 4, 12);
         manager.addRaceResult(race1);
 
-        // 6. Demonstrate chaning car in the race
+        // 6. Demonstrate changing car in the race
         ogier.setCar(gravelCar);
         neuville.setCar(gravelCar);
 
