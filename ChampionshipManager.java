@@ -15,7 +15,7 @@ public class ChampionshipManager {
 
     public static ChampionshipManager getInstance(){
         if (instance == null) {
-            instance = new ChampionshipManager(); // Create instance in the fiirst time
+            instance = new ChampionshipManager(); // Create instance in the first time
         }
         return instance;
     }
